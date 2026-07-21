@@ -144,7 +144,7 @@ I enjoy solving real-world problems using technology and continuously learning n
 
 <p align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=Brianfadi&theme=tokyonight&column=4&margin-w=15&margin-h=15"/>
+<img src="https://github-profile-trophy.vercel.app/?username=Brianfadi&theme=algolia&no-frame=true&row=1&column=7"/>
 
 </p>
 
